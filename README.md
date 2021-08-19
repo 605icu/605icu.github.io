@@ -1,5 +1,5 @@
 # 605icu.github.io
-本存储库的唯一功能是跳转至 <https://605icu.github.io/605icu/>。
+本存储库的唯一功能是跳转至 <https://605icu.github.io/605icu/>。  
 **请勿在这个存储库贡献代码。如需贡献代码，请前往<https://github.com/605icu/605icu>。**
 ## 版权
 Copyright &copy; 2021 605ICU
